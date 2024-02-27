@@ -1,0 +1,14 @@
+C:\Repository\PeriodTimer\PeriodTimerDemo\bin\Debug\net8.0\PeriodTimerDemo.exe
+C:\Repository\PeriodTimer\PeriodTimerDemo\bin\Debug\net8.0\PeriodTimerDemo.deps.json
+C:\Repository\PeriodTimer\PeriodTimerDemo\bin\Debug\net8.0\PeriodTimerDemo.runtimeconfig.json
+C:\Repository\PeriodTimer\PeriodTimerDemo\bin\Debug\net8.0\PeriodTimerDemo.dll
+C:\Repository\PeriodTimer\PeriodTimerDemo\bin\Debug\net8.0\PeriodTimerDemo.pdb
+C:\Repository\PeriodTimer\PeriodTimerDemo\obj\Debug\net8.0\PeriodTimerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\PeriodTimer\PeriodTimerDemo\obj\Debug\net8.0\PeriodTimerDemo.AssemblyInfoInputs.cache
+C:\Repository\PeriodTimer\PeriodTimerDemo\obj\Debug\net8.0\PeriodTimerDemo.AssemblyInfo.cs
+C:\Repository\PeriodTimer\PeriodTimerDemo\obj\Debug\net8.0\PeriodTimerDemo.csproj.CoreCompileInputs.cache
+C:\Repository\PeriodTimer\PeriodTimerDemo\obj\Debug\net8.0\PeriodTimerDemo.dll
+C:\Repository\PeriodTimer\PeriodTimerDemo\obj\Debug\net8.0\refint\PeriodTimerDemo.dll
+C:\Repository\PeriodTimer\PeriodTimerDemo\obj\Debug\net8.0\PeriodTimerDemo.pdb
+C:\Repository\PeriodTimer\PeriodTimerDemo\obj\Debug\net8.0\PeriodTimerDemo.genruntimeconfig.cache
+C:\Repository\PeriodTimer\PeriodTimerDemo\obj\Debug\net8.0\ref\PeriodTimerDemo.dll
